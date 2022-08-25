@@ -1,0 +1,18 @@
+.payment{
+    background-color: aliceblue;
+}
+.payment_container > h1{
+    text-align: center;
+   padding: 10px;
+   font-weight: 400;
+   background-color: whitesmoke;
+   border-bottom: 1px solid lightgray;
+}
+
+.payment_title{
+    flex: 0.2;
+}
+
+.payment_address, .payment_item, .payment_details{
+    flex: 0.8;
+}
